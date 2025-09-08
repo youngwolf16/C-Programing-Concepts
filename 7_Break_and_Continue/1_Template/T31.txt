@@ -1,0 +1,3 @@
+This code uses continue inside a while loop.
+What is this code doing. Predict the output.
+Fix the code to make it work.

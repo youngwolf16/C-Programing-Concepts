@@ -1,0 +1,6 @@
+Program should read 3 float values from user and print their average.
+
+Sample executions :
+Test case 1:
+Input : 25.7 1.1 28.2
+Output : 18.333333

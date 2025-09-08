@@ -1,0 +1,18 @@
+print largest of 3 integers using nested if
+
+Instructions:
+Use Nested if condition to find largest of 3 integers.
+
+Note: Declare variables int num1, num2, num3, largest;
+
+Program execution sample:
+
+Sample Output 1:
+Enter three numbers: 1  5  10 
+Largest is 10
+Sample Output 2:
+Enter three numbers: 125  100 5
+Largest is 125
+Sample Output 3:
+Enter three numbers: 50 200 100
+Largest is 200

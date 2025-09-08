@@ -1,0 +1,44 @@
+Pre-requisites:
+
+Loops
+Arithmatic operators
+Conditional constructs
+Objective:
+
+To understand the concept of
+Loops (Exit points of loops)
+Conditional constructs
+Requirements:
+
+Read a number from user.
+Check the number is prime or not using loops and display the output.
+
+Sample Execution:
+
+Test case 1: 
+Enter a number: 2
+2 is a prime number
+
+Test case 2: 
+Enter a number: 4
+4 is not a prime number
+
+Test case 3: 
+Enter a number: 101
+101 is a prime number
+
+Test case 4: 
+Enter a number: 47
+47 is a prime number
+
+Test case 5: 
+Enter a number: -2
+Invalid input
+
+Test case 6: 
+Enter a number: 25
+25 is not a prime number
+
+Test case 7: 
+Enter a number: 2089
+2089 is a prime number

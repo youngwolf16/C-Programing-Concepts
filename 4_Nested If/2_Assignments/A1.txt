@@ -1,0 +1,19 @@
+Description : 
+
+you should read three intergers from user and find the middle number 
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the Three numbers : 10 20 30
+
+The middle number is 20
+
+Test case 2 :
+
+
+Enter the Three numbers : 43 10 25
+
+The middle number is 25
+

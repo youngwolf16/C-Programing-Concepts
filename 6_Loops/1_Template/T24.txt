@@ -1,0 +1,26 @@
+Print Simple Triangle Star Pattern
+
+Comment the prompting messages printf statements.
+
+Ex: //printf("Enter the number:\n");
+
+
+
+Program execution sample:
+
+Sample Output 1:
+Enter max lines: 4
+
+*
+**
+***
+****
+
+Enter max lines: 6
+
+*
+**
+***
+****
+*****
+******

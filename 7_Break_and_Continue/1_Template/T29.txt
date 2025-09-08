@@ -1,0 +1,13 @@
+Generate prime numbers upto a given limit
+
+Description:-
+Generate prime number upto given limit. 
+
+Solution:-
+For each number form 2 to limit, check it is prime.
+If it is prime print the number. If it is not prime do not print anything.
+
+Sample Execution:
+Case 1:
+Enter a limit: 30
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29,

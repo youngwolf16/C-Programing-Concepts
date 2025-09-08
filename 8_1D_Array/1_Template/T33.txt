@@ -1,0 +1,7 @@
+Read Array from User & Print them using Loop
+
+Instructions to be followed in sequence :-
+Create an integer array named arr of size 5
+Prompt the user to enter 5 elements
+Read the individual elements using scanf and store it in the array (using loop)
+Print all the elements using a separate loop

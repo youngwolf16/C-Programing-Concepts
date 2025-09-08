@@ -1,0 +1,15 @@
+You have to print the below pattern.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter n : 4
+
+      *
+
+    * * *
+
+  * * * * *
+
+* * * * * * *

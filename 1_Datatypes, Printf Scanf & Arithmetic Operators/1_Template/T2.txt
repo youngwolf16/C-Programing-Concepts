@@ -1,0 +1,5 @@
+Program should read two integers from user and print the sum.
+
+Sample executions :
+Input    : 7 1
+Output : sum=8
