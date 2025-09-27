@@ -1,0 +1,4 @@
+Implement a function to  find the sum of two numbers
+Enter num1 and num2 : 10 2
+
+Sum of two numbers is 12

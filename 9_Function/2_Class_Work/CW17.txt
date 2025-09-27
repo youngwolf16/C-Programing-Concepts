@@ -1,0 +1,17 @@
+Description : 
+
+You have to read a number from user and check if a given number is even or odd. Function should return TRUE or FALSE
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the number : 2
+
+TRUE
+
+Test case 2 :
+
+Enter the number : 3
+
+FALSE

@@ -1,0 +1,42 @@
+Pre-requisites:
+
+Loops
+Arithmatic operators
+Conditional constructs
+Functions
+Objective:
+
+To understand the concept of
+ Loops (Exit points of loops)
+ Conditional constructs
+ Functions & its use, return value
+Requirements:
+
+Read a number from user.
+Create a function is_prime(), which will check the number is prime or not.
+Create a function generate_prime(), which will reuse the function is_prime() to create prime series.
+Function Prototypes:
+  - int prime(int num);
+  - void generate_prime(int limit);
+
+Sample Execution:
+
+Test case 1: 
+Enter a number: 2
+2
+
+Test case 2: 
+Enter a number: 4
+2 3
+
+Test case 3: 
+Enter a number: 20
+2 3 5 7 11 13 17 19
+
+Test case 5: 
+Enter a number: -2
+Invalid input
+
+Test case 6: 
+Enter a number: 1
+Invalid input

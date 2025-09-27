@@ -1,0 +1,9 @@
+to find the product of two numbers without using *
+
+Note : use functions
+
+Eg:
+
+Enter num1 and num2 : 10 2
+
+Product of two numbers is 20

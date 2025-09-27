@@ -1,0 +1,11 @@
+to check if the number is prime using a function. Print the result in the main function.
+
+Eg1:
+
+Enter a number : 10
+
+10 is not a prime number
+
+Enter a number: 23
+
+23 is a prime number

@@ -1,0 +1,13 @@
+to check if number is odd or even. Print the result in main function.
+
+Eg1:
+
+Enter a number : 10
+
+10 is even
+
+Eg2:
+
+Enter a number : 15
+
+15 is odd

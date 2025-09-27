@@ -1,0 +1,7 @@
+to modify the value of a variable.
+
+Eg:
+
+Enter the number : 10
+
+After modifying, num is 15
