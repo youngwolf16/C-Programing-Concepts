@@ -1,0 +1,22 @@
+Description : 
+
+You have to read a array elements from the user and make square of each elements.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the size : 5
+
+Enter the array elements : 1 2 3 4 5
+
+Square is 1 4 9 16 25
+
+Test case 2 :
+
+
+Enter the size : 5
+
+Enter the array elements : -1 -2 -3 -4 -5
+
+Square is 1 4 9 16 25

@@ -1,0 +1,7 @@
+WAP to increase the value of the float variable by 20 using pointer
+
+Eg:
+
+Enter the age : 20.6
+
+Age after increasing by 20 is 40.6  

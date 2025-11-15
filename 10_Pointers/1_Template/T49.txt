@@ -1,0 +1,7 @@
+WAP to read  and print value of a character variable using pointer
+
+Eg:
+
+Enter the input  : A
+
+Character entered is A

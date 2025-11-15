@@ -1,0 +1,42 @@
+Description : 
+
+You have to read two numbers from user and you have to swap the two number.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the number1 : 10
+
+Enter the number2 : 20
+
+Before swap :
+
+num1 is 10
+
+num2 is 20
+
+After swap :
+
+num1 is 20
+
+num2 is 10
+
+Test case 2 :
+
+
+Enter the number1 : 5
+
+Enter the number2 : 10
+
+Before swap :
+
+num1 is 5
+
+num2 is 10
+
+After swap :
+
+num1 is 10
+
+num2 is 5

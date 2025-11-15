@@ -1,0 +1,11 @@
+Description : 
+
+You have read a string from user and reverse the string. 
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string : Palindrome
+
+Reversed string is emordnilaP

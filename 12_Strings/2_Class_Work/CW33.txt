@@ -1,0 +1,15 @@
+Description : 
+
+You have to read a string from user, without using strcpy() function you have to copy the string.
+
+Note :
+
+-Atleast 1 function call should be in your program.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string : Hello World
+
+Copied string is Hello World

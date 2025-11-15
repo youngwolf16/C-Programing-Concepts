@@ -1,0 +1,48 @@
+Pre-requisites:
+
+Loops
+Arithmatic operators
+Conditional constructs
+Functions
+Objective:
+> To understand the concept of
+
+Loops (Exit points of loops)
+Conditional constructs
+Functions and return value
+Requirements:
+
+Read a number from user.
+Pass the number to the function is_prime().
+Check the number is prime or not in the function.
+Return 1 if the number is prime, or return 0 if the number is not prime.
+Print the output in the main function based on the return value.
+Sample Execution:
+
+Test case 1: 
+Enter a number: 2
+2 is a prime number
+
+Test case 2: 
+Enter a number: 4
+4 is not a prime number
+
+Test case 3: 
+Enter a number: 101
+101 is a prime number
+
+Test case 4: 
+Enter a number: 47
+47 is a prime number
+
+Test case 5: 
+Enter a number: -2
+Invalid input
+
+Test case 6: 
+Enter a number: 25
+25 is not a prime number
+
+Test case 7: 
+Enter a number: 2089
+2089 is a prime number

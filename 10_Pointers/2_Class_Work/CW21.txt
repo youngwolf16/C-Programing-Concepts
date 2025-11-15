@@ -1,0 +1,17 @@
+WAP to find the average of array's elements.
+
+Instructions:
+
+Read size and array's elements from the user
+
+Write a function to find the average
+
+Print the average in the main function
+
+Eg:
+
+Enter array size : 5
+
+Enter array elements : 10 4 9 7 3
+
+Average of array elements : 6.6

@@ -1,0 +1,27 @@
+Description : 
+
+You have to read two number and find the sum and product of two numbers
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the number1 : 5
+
+Enter the number2 : 10
+
+Sum is 15
+
+Product is 50
+
+Test case 2 :
+
+
+Enter the number1 : 2
+
+Enter the number2 : 2
+
+Sum is 4
+
+Product is 4
+

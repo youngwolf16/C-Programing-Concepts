@@ -1,0 +1,17 @@
+Description : 
+
+You have to read a string from user and find the length of the string.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string : Hello
+
+String length is 5
+
+Test case 2 :
+
+Enter the string : string.
+
+String length is 7

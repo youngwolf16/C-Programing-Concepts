@@ -1,0 +1,7 @@
+WAP to find the sum and product of two numbers
+
+Eg:
+
+Enter the two numbers : 10 20
+
+Output : sum = 30, product = 200

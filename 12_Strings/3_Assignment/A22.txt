@@ -1,0 +1,20 @@
+Description:
+
+int getword(char *word)
+Create a function named getword.
+Function will receive the string from main
+Function should return the length of the first word.
+Pr-requisites:-
+Functions
+Pointers
+Objective: -
+
+To understand the concept of
+Functions and Pointers
+Inputs: -
+Sample execution: -
+
+Test Case 1:
+Enter the string : Hello
+
+You entered Hello and the length is 5

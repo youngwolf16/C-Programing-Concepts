@@ -1,0 +1,11 @@
+WAP to check if character is found in a string
+
+Instructions: Read the string and character from the user
+
+Eg:
+
+Enter the string : We are searching for a character
+
+Entre a character : r
+
+Output : re searching for a character

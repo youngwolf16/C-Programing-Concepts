@@ -1,0 +1,35 @@
+Description : 
+
+You have to read a string from user and you should implement my_strncmp() function.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string1 : ABCDEF
+
+Enter the string2 : ABCDEF
+
+Enter the n : 5
+
+str1 is equal to str2.
+
+Test case 2 :
+
+Enter the string1 : ABCDE
+
+Enter the string2 : ABCDEF
+
+Enter the n : 6
+
+str1 is less than str2
+
+Test case 3 :
+
+Enter the string1 : ABCDEF
+
+Enter the string2 : ABCDE
+
+Enter the n : 6
+
+str2 is less than str1

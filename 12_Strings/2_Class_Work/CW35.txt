@@ -1,0 +1,11 @@
+Description : 
+
+You have to read a string from user and check the string is palindrome or not.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string : malayalam
+
+Yes, Entered string is palindrome.

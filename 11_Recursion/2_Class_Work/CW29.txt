@@ -1,0 +1,7 @@
+WAP to find the sum of the digits of a number using recursive function
+
+Eg:
+
+Enter the number: 10359
+
+Sum of the digits is 18

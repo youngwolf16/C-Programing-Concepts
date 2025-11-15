@@ -1,0 +1,17 @@
+Description : 
+
+You have to read a string from user and reverse each words in that string
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string: Hello how are you
+
+Reversed string: you are how Hello
+
+Test case 2 :
+
+Enter the string: Hello world 
+
+Reversed string: world Hello

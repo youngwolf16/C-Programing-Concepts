@@ -1,0 +1,1 @@
+WAP to print the string character by character using a function

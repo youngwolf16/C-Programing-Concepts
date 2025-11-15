@@ -1,0 +1,21 @@
+Description : 
+
+You have to read two strings from user and implement my_strcat() function.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string1 : hello
+
+Enter the string2 : world
+
+concatenate string is helloworld
+
+Test case 2 :
+
+Enter the string1 : leet .
+
+Enter the string2 : code
+
+concatenate string is leet .code

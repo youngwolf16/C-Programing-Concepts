@@ -1,0 +1,7 @@
+WAP to print the value of the number using pointer
+
+Eg: 
+
+Enter the value of num : 10
+
+Value is 10

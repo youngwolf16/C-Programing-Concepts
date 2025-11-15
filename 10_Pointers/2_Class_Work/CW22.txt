@@ -1,0 +1,22 @@
+Description : 
+
+You have to read a number from user and find the square and cube of a number.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the number : 2
+
+Square is 4
+
+Cube is 8
+
+Test case 2 :
+
+
+Enter the number : 3
+
+Square is 9
+
+Cube is 27

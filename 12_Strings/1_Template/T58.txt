@@ -1,0 +1,11 @@
+WAP to check if substring is found in main string
+
+Instructions : Read two strings from the user and check if the substring is found in the main string
+
+Eg:
+
+Enter the main string : Hai hello how are you?
+
+Enter the sub string : hello
+
+hello how are you?

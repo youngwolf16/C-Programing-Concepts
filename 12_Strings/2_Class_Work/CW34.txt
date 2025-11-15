@@ -1,0 +1,22 @@
+Description : 
+
+You have to read two strings from user and compare the strings equal or not without using strcmp() function.
+
+Sample Execution : 
+
+Test case 1 : 
+
+Enter the string1 : Emertxe
+
+Enter the string2 : Emertxe
+
+Entered Strings are equal
+
+Test case 2 :
+
+
+Enter the string1 : Hello World
+
+Enter the string2 : Hello world
+
+Entered Strings are not equal
